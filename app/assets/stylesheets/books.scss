@@ -1,0 +1,17 @@
+// Place all the styles related to the Books controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.book_table,table,th,td
+{
+
+	border:1px solid black;
+	border-collapse: collapse;
+}
+
+.book_table,th
+{
+	background-color:red;
+	color:lime;
+	font-size:20px;
+
+}

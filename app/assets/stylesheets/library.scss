@@ -1,0 +1,21 @@
+// Place all the styles related to the Library controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+h1{
+	color:red;
+}
+.category_link{
+	display:inline;
+	background-color:lime;
+  border-style:solid lime;
+  border-radius:5px	;
+  padding:5px;
+}
+.book_link{
+	margin-left:10px;	
+	display:inline;
+	background-color:lime;
+  border-style:solid lime;
+  border-radius:5px	;
+  padding:5px;
+}
